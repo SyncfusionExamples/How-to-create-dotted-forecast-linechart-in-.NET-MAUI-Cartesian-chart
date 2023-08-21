@@ -94,6 +94,6 @@ public ObservableCollection<Brush> CustomColor { get; set; }
     }
 ```
 
-**Output:** 
+**Output** 
 
 ![DottedLine](https://user-images.githubusercontent.com/102796134/232827103-37afd8b6-50ea-4497-8e3e-0420998b7584.png)

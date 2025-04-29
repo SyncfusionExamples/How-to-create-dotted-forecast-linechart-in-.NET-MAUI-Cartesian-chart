@@ -10,7 +10,7 @@
     </ContentPage.BindingContext>
 
     <ContentPage.Content>
-        <chart:SfCartesianChart PaletteBrushes="{Binding CustomColor}">
+        <chart:SfCartesianChart PaletteBrushes="{Binding CustomColor}" Margin="0,10,0,0">
             <chart:SfCartesianChart.Resources>
                 <DoubleCollection x:Key="dashArray">
                     <x:Double>3</x:Double>

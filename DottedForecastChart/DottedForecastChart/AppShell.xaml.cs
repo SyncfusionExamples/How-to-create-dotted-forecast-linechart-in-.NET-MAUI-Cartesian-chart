@@ -1,9 +1,10 @@
-﻿namespace DottedForecastChart;
-
-public partial class AppShell : Shell
+﻿namespace DottedForecastChart
 {
-	public AppShell()
-	{
-		InitializeComponent();
-	}
+    public partial class AppShell : Shell
+    {
+        public AppShell()
+        {
+            InitializeComponent();
+        }
+    }
 }
